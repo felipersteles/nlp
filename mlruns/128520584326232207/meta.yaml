@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/128520584326232207
+creation_time: 1726764034583
+experiment_id: '128520584326232207'
+last_update_time: 1726764044446
+lifecycle_stage: active
+name: pancreas_classification
+tags: {}
